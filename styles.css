@@ -1,0 +1,32 @@
+.box {
+    padding-top: 0;
+    padding-right: 30px;
+    padding-bottom: 40px;
+    padding-left: 4em;
+  }
+  
+  .container {
+    padding: 20px;
+  }
+
+
+.content{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: lightblue;
+    padding: 20px;
+    width: 100%;
+}
+
+#display{
+    width: 100%;
+}
+
+#slider{
+    width: 100%;
+}
+
+#length{
+    display: inline-block;
+    width: 100px;
+}
